@@ -1,4 +1,4 @@
-An airline ticketing system that provides a user-friendly interface and a well-designed database.
+An airline ticketing system that provides a user-friendly interface and a well-designed website.
 The system contains all available flight information, which is integrated and can be easily accessed through the website.
 The system helps users find information quickly and efficiently.
 The system is designed to provide real-time updates on the booking list, so that customers can book their flights 
